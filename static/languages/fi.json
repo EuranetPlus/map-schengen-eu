@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Napsauta saadaksesi lisätietoja",
+  "extraInfoText_BG": "He ovat pyrkineet liittymään Schengen-alueeseen vuodesta 2007, jolloin he liittyivät Euroopan unionin jäseniksi.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "EFTA-maa",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "He ovat pyrkineet liittymään Schengen-alueeseen vuodesta 2004, jolloin he liittyivät Euroopan unionin jäseniksi.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Opted Out",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "EFTA-maa",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "EFTA-maa",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "EFTA-maa",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "He ovat pyrkineet liittymään Schengen-alueeseen vuodesta 2007, jolloin he liittyivät Euroopan unionin jäseniksi.",
+  "extraInfoLink_RO": ""
 }

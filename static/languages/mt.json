@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Aċċessa għad-data",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar informazzjoni",
+  "extraInfoText_BG": "Ilu jfittxu li jissieħbu fiż-Żona Schengen mill-2007, meta saru membri tal-Unjoni Ewropea.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "pajjiż tal-EFTA",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Ilu jfittxu li jissieħbu fiż-Żona Schengen mill-2004, meta saru membri tal-Unjoni Ewropea.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Opted-out",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "pajjiż tal-EFTA",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "pajjiż tal-EFTA",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "pajjiż tal-EFTA",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Ilu jfittxu li jissieħbu fiż-Żona Schengen mill-2007, meta saru membri tal-Unjoni Ewropea.",
+  "extraInfoLink_RO": ""
 }

@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Достъп до данните",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Кликнете за повече информация"
+  "textCountryClick": "Кликнете за повече информация",
+  "extraInfoText_BG": "Стремят се да се присъединят към Шенгенското пространство от 2007 г., когато станаха членове на Европейския съюз.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "страна от ЕАСТ",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Стремят се да се присъединят към Шенгенското пространство от 2004 г., когато станаха членове на Европейския съюз.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Отказ",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "страна от ЕАСТ",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "страна от ЕАСТ",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "страна от ЕАСТ",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Стремят се да се присъединят към Шенгенското пространство от 2007 г., когато станаха членове на Европейския съюз.",
+  "extraInfoLink_RO": ""
 }

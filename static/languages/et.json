@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Lisateabe saamiseks klõpsake"
+  "textCountryClick": "Lisateabe saamiseks klõpsake",
+  "extraInfoText_BG": "Nad on taotlenud Schengeni alaga liitumist alates 2007. aastast, mil nad said Euroopa Liidu liikmeks.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "EFTA riik",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Nad on taotlenud Schengeni alaga liitumist alates 2004. aastast, mil nad said Euroopa Liidu liikmeks.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Loobutud",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "EFTA riik",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "EFTA riik",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "EFTA riik",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Nad on taotlenud Schengeni alaga liitumist alates 2007. aastast, mil nad said Euroopa Liidu liikmeks.",
+  "extraInfoLink_RO": ""
 }

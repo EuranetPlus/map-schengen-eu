@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "További információért kattintson",
+  "extraInfoText_BG": "2007 óta törekednek a schengeni övezethez való csatlakozásra, amikor az Európai Unió tagja lettek.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "EFTA ország",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "2004 óta törekednek a schengeni övezethez való csatlakozásra, amikor az Európai Unió tagja lettek.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Elutasított",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "EFTA ország",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "EFTA ország",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "EFTA ország",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "2007 óta törekednek a schengeni övezethez való csatlakozásra, amikor az Európai Unió tagja lettek.",
+  "extraInfoLink_RO": ""
 }

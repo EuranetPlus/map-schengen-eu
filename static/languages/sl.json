@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Kliknite za več informacij"
+  "textCountryClick": "Kliknite za več informacij",
+  "extraInfoText_BG": "Že od leta 2007, ko so postale članice Evropske unije, si prizadevajo za vstop v schengensko območje.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "država Efte",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Že od leta 2004, ko so postale članice Evropske unije, si prizadevajo za vstop v schengensko območje.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Izključeno",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "država Efte",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "država Efte",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "država Efte",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Že od leta 2007, ko so postale članice Evropske unije, si prizadevajo za vstop v schengensko območje.",
+  "extraInfoLink_RO": ""
 }

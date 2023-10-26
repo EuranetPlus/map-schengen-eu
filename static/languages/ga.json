@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Faigh rochtain ar na sonraí",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
+  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais",
+  "extraInfoText_BG": "Tá siad ag iarraidh dul isteach i Limistéar Schengen ó 2007, nuair a tháinig siad chun bheith ina gcomhaltaí den Aontas Eorpach.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "tír CSTE",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Tá siad ag iarraidh dul isteach i Limistéar Schengen ó 2004, nuair a tháinig siad chun bheith ina gcomhaltaí den Aontas Eorpach.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Diúltaithe",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "tír CSTE",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "tír CSTE",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "tír CSTE",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Tá siad ag iarraidh dul isteach i Limistéar Schengen ó 2007, nuair a tháinig siad chun bheith ina gcomhaltaí den Aontas Eorpach.",
+  "extraInfoLink_RO": ""
 }

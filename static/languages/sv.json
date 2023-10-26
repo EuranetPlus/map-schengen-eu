@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer info",
+  "extraInfoText_BG": "Har försökt ansluta sig till Schengenområdet sedan 2007, då de blev medlemmar i Europeiska unionen.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "EFTA-land",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Har försökt ansluta sig till Schengenområdet sedan 2004, då de blev medlemmar i Europeiska unionen.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Valt bort",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "EFTA-land",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "EFTA-land",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "EFTA-land",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Har försökt ansluta sig till Schengenområdet sedan 2007, då de blev medlemmar i Europeiska unionen.",
+  "extraInfoLink_RO": ""
 }

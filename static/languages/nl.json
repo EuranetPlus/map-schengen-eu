@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Klik voor meer informatie"
+  "textCountryClick": "Klik voor meer informatie",
+  "extraInfoText_BG": "Ze proberen al sinds 2007 lid te worden van het Schengengebied, toen ze lid werden van de Europese Unie.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "EVA-land",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Ze proberen al sinds 2004 lid te worden van het Schengengebied, toen ze lid werden van de Europese Unie.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Afgemeld",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "EVA-land",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "EVA-land",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "EVA-land",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Ze proberen al sinds 2007 lid te worden van het Schengengebied, toen ze lid werden van de Europese Unie.",
+  "extraInfoLink_RO": ""
 }

@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
+  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos",
+  "extraInfoText_BG": "Įstoti į Šengeno erdvę siekia nuo 2007 m., kai tapo Europos Sąjungos narėmis.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "ELPA šalis",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Įstoti į Šengeno erdvę siekia nuo 2004 m., kai tapo Europos Sąjungos narėmis.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Atsisakyta",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "ELPA šalis",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "ELPA šalis",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "ELPA šalis",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Įstoti į Šengeno erdvę siekia nuo 2007 m., kai tapo Europos Sąjungos narėmis.",
+  "extraInfoLink_RO": ""
 }

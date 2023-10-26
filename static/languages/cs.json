@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Klikněte pro více informací"
+  "textCountryClick": "Klikněte pro více informací",
+  "extraInfoText_BG": "O vstup do schengenského prostoru usilují od roku 2007, kdy se stali členy Evropské unie.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "země ESVO",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "O vstup do schengenského prostoru usilují od roku 2004, kdy se stali členy Evropské unie.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Odhlášeno",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "země ESVO",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "země ESVO",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "země ESVO",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "O vstup do schengenského prostoru usilují od roku 2007, kdy se stali členy Evropské unie.",
+  "extraInfoLink_RO": ""
 }

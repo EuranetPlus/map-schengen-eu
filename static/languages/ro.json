@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Click pentru mai multe informații",
+  "extraInfoText_BG": "Încearcă să se alăture spațiului Schengen din 2007, când au devenit membri ai Uniunii Europene.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "tara EFTA",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Încearcă să se alăture spațiului Schengen din 2004, când au devenit membri ai Uniunii Europene.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Renunțat la",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "tara EFTA",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "tara EFTA",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "tara EFTA",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Încearcă să se alăture spațiului Schengen din 2007, când au devenit membri ai Uniunii Europene.",
+  "extraInfoLink_RO": ""
 }

@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Greifen Sie auf die Daten zu",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie für weitere Informationen",
+  "extraInfoText_BG": "Seit 2007, als sie Mitglieder der Europäischen Union wurden, streben sie einen Beitritt zum Schengen-Raum an.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "EFTA-Land",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Seit 2004, als sie Mitglieder der Europäischen Union wurden, streben sie einen Beitritt zum Schengen-Raum an.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Ausgestiegen",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "EFTA-Land",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "EFTA-Land",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "EFTA-Land",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Seit 2007, als sie Mitglieder der Europäischen Union wurden, streben sie einen Beitritt zum Schengen-Raum an.",
+  "extraInfoLink_RO": ""
 }

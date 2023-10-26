@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "textCountryClick": "Fare clic per maggiori informazioni",
+  "extraInfoText_BG": "Cercano di aderire allo spazio Schengen dal 2007, quando sono diventati membri dell'Unione Europea.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "Paese dell’AELS",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Cercano di aderire allo spazio Schengen dal 2004, quando sono diventati membri dell'Unione Europea.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Rinunciato",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "Paese dell’AELS",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "Paese dell’AELS",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "Paese dell’AELS",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Cercano di aderire allo spazio Schengen dal 2007, quando sono diventati membri dell'Unione Europea.",
+  "extraInfoLink_RO": ""
 }

@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Cliquez pour plus d'informations"
+  "textCountryClick": "Cliquez pour plus d'informations",
+  "extraInfoText_BG": "Ils cherchent à rejoindre l’espace Schengen depuis 2007, date à laquelle ils sont devenus membres de l’Union européenne.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "Pays de l'AELE",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Ils cherchent à rejoindre l’espace Schengen depuis 2004, date à laquelle ils sont devenus membres de l’Union européenne.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Choisi de se retirer",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "Pays de l'AELE",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "Pays de l'AELE",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "Pays de l'AELE",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Ils cherchent à rejoindre l’espace Schengen depuis 2007, date à laquelle ils sont devenus membres de l’Union européenne.",
+  "extraInfoLink_RO": ""
 }

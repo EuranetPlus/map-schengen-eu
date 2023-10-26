@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Pristupite podacima",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Kliknite za više informacija"
+  "textCountryClick": "Kliknite za više informacija",
+  "extraInfoText_BG": "Od 2007. godine, kada su postale članice Europske unije, traže ulazak u schengenski prostor.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "zemlja EFTA-e",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Od 2004. godine, kada su postale članice Europske unije, traže ulazak u schengenski prostor.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Isključeno",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "zemlja EFTA-e",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "zemlja EFTA-e",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "zemlja EFTA-e",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Od 2007. godine, kada su postale članice Europske unije, traže ulazak u schengenski prostor.",
+  "extraInfoLink_RO": ""
 }

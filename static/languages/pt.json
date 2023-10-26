@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Clique para mais informações"
+  "textCountryClick": "Clique para mais informações",
+  "extraInfoText_BG": "Procuram aderir ao Espaço Schengen desde 2007, altura em que se tornaram membros da União Europeia.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "País da EFTA",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Procuram aderir ao Espaço Schengen desde 2004, altura em que se tornaram membros da União Europeia.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Desativado",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "País da EFTA",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "País da EFTA",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "País da EFTA",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Procuram aderir ao Espaço Schengen desde 2007, altura em que se tornaram membros da União Europeia.",
+  "extraInfoLink_RO": ""
 }

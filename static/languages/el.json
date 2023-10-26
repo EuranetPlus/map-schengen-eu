@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες"
+  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες",
+  "extraInfoText_BG": "Επιδιώκουν να ενταχθούν στον χώρο Σένγκεν από το 2007, όταν έγιναν μέλη της Ευρωπαϊκής Ένωσης.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "χώρα της ΕΖΕΣ",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Επιδιώκουν να ενταχθούν στον χώρο Σένγκεν από το 2004, όταν έγιναν μέλη της Ευρωπαϊκής Ένωσης.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Εξαίρεση",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "χώρα της ΕΖΕΣ",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "χώρα της ΕΖΕΣ",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "χώρα της ΕΖΕΣ",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Επιδιώκουν να ενταχθούν στον χώρο Σένγκεν από το 2007, όταν έγιναν μέλη της Ευρωπαϊκής Ένωσης.",
+  "extraInfoLink_RO": ""
 }

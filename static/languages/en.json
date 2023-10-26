@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Click for more info"
+  "textCountryClick": "Click for more info",
+  "extraInfoText_BG": "Have been seeking to join the Schengen Area since 2007, when they became members of the European Union.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "EFTA country",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Have been seeking to join the Schengen Area since 2004, when they became members of the European Union.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Opted-Out",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "EFTA country",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "EFTA country",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "EFTA country",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Have been seeking to join the Schengen Area since 2007, when they became members of the European Union.",
+  "extraInfoLink_RO": ""
 }

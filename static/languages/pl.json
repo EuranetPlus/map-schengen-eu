@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
+  "textCountryClick": "Kliknij, aby uzyskać więcej informacji",
+  "extraInfoText_BG": "Starają się o przyłączenie do strefy Schengen od 2007 roku, kiedy zostali członkami Unii Europejskiej.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "Kraj EFTA",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Starają się o przyłączenie do strefy Schengen od 2004 roku, kiedy zostali członkami Unii Europejskiej.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Wycofała się",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "Kraj EFTA",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "Kraj EFTA",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "Kraj EFTA",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Starają się o przyłączenie do strefy Schengen od 2007 roku, kiedy zostali członkami Unii Europejskiej.",
+  "extraInfoLink_RO": ""
 }

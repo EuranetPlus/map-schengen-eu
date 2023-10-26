@@ -9,5 +9,21 @@
   "textNote": "",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://www.schengenvisainfo.com/schengen-visa-countries-list/",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas",
+  "extraInfoText_BG": "Cenšas pievienoties Šengenas zonai kopš 2007. gada, kad kļuva par Eiropas Savienības dalībvalstīm.",
+  "extraInfoLink_BG": "",
+  "extraInfoText_CH": "EBTA valsts",
+  "extraInfoLink_CH": "",
+  "extraInfoText_CY": "Cenšas pievienoties Šengenas zonai kopš 2004. gada, kad kļuva par Eiropas Savienības dalībvalstīm.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_IE": "Izslēgts",
+  "extraInfoLink_IE": "",
+  "extraInfoText_IS": "EBTA valsts",
+  "extraInfoLink_IS": "",
+  "extraInfoText_LI": "EBTA valsts",
+  "extraInfoLink_LI": "",
+  "extraInfoText_NO": "EBTA valsts",
+  "extraInfoLink_NO": "",
+  "extraInfoText_RO": "Cenšas pievienoties Šengenas zonai kopš 2007. gada, kad kļuva par Eiropas Savienības dalībvalstīm.",
+  "extraInfoLink_RO": ""
 }
